@@ -1,14 +1,17 @@
 <div align="center">
 
-  # 👋 Olá, eu sou o Gabriel!
-  
-  **Estudante Independente | Programação & Cybersecurity**
-  
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zfaast.xd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielgbp_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-gomes-13b2b13a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zfaastxd@gmail.com)
+# 👋 Olá, eu sou o Gabriel! / Hi, I'm Gabriel!
+
+**Estudante Independente | Programação & Cybersecurity**
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zfaast.xd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielgbp_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-gomes-13b2b13a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zfaastxd@gmail.com)
 
 </div>
 
 <br>
+
+<details>
+<summary>🇧🇷 <b>Versão em Português (Clique para expandir)</b></summary>
 
 ## 🔭 Sobre Mim
 * 🤜🤛 **Colaboração:** Projetos open-source para iniciantes ou grupos de estudos.
@@ -17,9 +20,23 @@
 * 💬 **Pergunte-me sobre:** Como equilibrar o Ensino Médio com TI e organização de rotina.
 * ⚡ **Fun Fact:** O foco nos treinos de calistenia e corrida é o que me mantém concentrado no código.
 
+</details>
+
+<details>
+<summary>🇺🇸 <b>English Version (Click to expand)</b></summary>
+
+## 🔭 About Me
+* 🤜🤛 **Collaboration:** Open-source projects for beginners or study groups.
+* 🤝 **Looking for help:** Complex data structures and Clean Code best practices.
+* 🌱 **Currently learning:** Python, HTML, CSS, JS, and Cybersecurity.
+* 💬 **Ask me about:** How to balance High School with IT and routine organization.
+* ⚡ **Fun Fact:** My focus on calisthenics and running is what keeps me concentrated on coding.
+
+</details>
+
 ---
 
-## 💻 Minha Tech Stack
+## 💻 Minha Tech Stack / My Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -38,4 +55,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=zFaast&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=zFaast&icon=6&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zFaast&label=Profile%20Views&color=0077B5&style=flat" alt="zFaast" />
+</div>
