@@ -28,7 +28,7 @@
 ## 🔭 About Me
 * 🤜🤛 **Collaboration:** Open-source projects for beginners or study groups.
 * 🤝 **Looking for help:** Complex data structures and Clean Code best practices.
-* 🌱 **Currently learning:** Python, HTML, CSS, JS, and Cybersecurity.
+* 🌱 **Currently learning:** Python, HTML, CSS, Java, and Cybersecurity.
 * 💬 **Ask me about:** How to balance High School with IT and routine organization.
 * ⚡ **Fun Fact:** My focus on calisthenics and running is what keeps me concentrated on coding.
 
